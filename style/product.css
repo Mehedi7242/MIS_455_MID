@@ -39,27 +39,25 @@ footer {
 .image-container {
   display: flex;
   justify-content: center;
-
+  
 }
 
 .product-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
+  
 
 }
 
 .product-items {
-  background-color: #FF4191;
+  background-color:#E90074;
   border-radius: 5px;
   padding: 10px;
   padding-bottom: 30px;
   transition: box-shadow 450ms ease-in-out;
   cursor: pointer;
-}
-.image-container {
-  display: flex;
-  justify-content: center;
+
 }
 
 .product-items img {

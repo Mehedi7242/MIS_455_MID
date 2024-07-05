@@ -51,3 +51,16 @@ main {
 h1, h2 {
   color: #E90074;
 }
+
+img {
+  width: 100%;
+  height: auto;
+  border: 5px solid #E90074;
+  border-radius: 10px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
