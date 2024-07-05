@@ -21,7 +21,7 @@ nav {
   padding-bottom: 10px;
   cursor: pointer;
   color: black;
-  transition: background-color 400ms ease-in-out, color 400ms ease-in-out;
+  transition: background-color 350ms ease-in-out, color 350ms ease-in-out;
 }
 
 .nav-items:hover {

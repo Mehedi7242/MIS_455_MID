@@ -35,4 +35,7 @@ footer {
   background-color: #E90074;
   padding: 2px;
   text-align: center;
+  border-radius:20px;
+  border-color: #FFF078;
+
 }
