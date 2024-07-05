@@ -4,7 +4,7 @@ a {
 body {
   margin: 0;
   padding: 0;
-  background-color: #FF4191;
+  background-color: #FFF078;
 }
 
 nav {
@@ -22,5 +22,17 @@ nav {
   padding-bottom: 10px;
   cursor: pointer;
   color: black;
-  transition: background-color 400ms ease-in-out, color 400ms ease-in-out;
+  transition: background-color 350ms ease-in-out, color 350ms ease-in-out;
+}
+
+.nav-items:hover {
+  background-color: 000000;
+  color: #E90074;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: #E90074;
+  padding: 2px;
+  text-align: center;
 }
