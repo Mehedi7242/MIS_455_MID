@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FF4191;
+}
+
+nav {
+background-color:#E90074 ;
+display: flex;
+}
+
+.nav-items {
+  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  color: black;
+  transition: background-color 400ms ease-in-out, color 400ms ease-in-out;
+}
