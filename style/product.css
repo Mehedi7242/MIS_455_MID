@@ -66,3 +66,14 @@ footer {
   border-radius: 5px;
   width: 100%;
 }
+
+footer {
+  margin-top: 20px;
+  background-color: #E90074;
+  padding: 2px;
+  text-align: center;
+  border-radius:20px;
+  border-color: #FFF078;
+  color: white;
+  font-size: 1rem;
+}

@@ -38,6 +38,7 @@ main h1 {
     text-align: center;
     background-color: #FF4191;
     font-family:'Times New Roman', Times, serif;
+    font-size:25;
 }
 
 .nav-items:hover {
@@ -50,4 +51,8 @@ footer {
     background-color: #E90074;
     padding: 2px;
     text-align: center;
+    border-radius:20px;
+    border-color: #FFF078;
+    color: white;
+    font-size: 1rem;
 }
